@@ -1,2 +1,2 @@
-# seongjxn-WebRepo
+# myWebRepo
 Web repository
